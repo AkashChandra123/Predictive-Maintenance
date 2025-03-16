@@ -1,1 +1,2 @@
 # Predictive-Maintenance
+This project focuses on Predictive Maintenance by analyzing a dataset to determine the factors that lead to machine failure or non-failure. The current phase of the project involves addressing the significant imbalance in the dataset, which is a critical step to ensure accurate and reliable analysis. Work is actively underway to balance the data and enhance the model's performance.
